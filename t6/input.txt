@@ -1,0 +1,9 @@
+Dwarf
+Gimli
+Fighter
+Human
+Aragorn
+Wizard
+Elf
+Legolas
+Ranger
